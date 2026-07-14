@@ -1,0 +1,1 @@
+execute if entity @s[tag=777.standing] run particle dust{color:[1.000,0.969,0.012],scale:0.225} ~ ~0.1 ~ 0.01 0.025 0.01 0 12 normal

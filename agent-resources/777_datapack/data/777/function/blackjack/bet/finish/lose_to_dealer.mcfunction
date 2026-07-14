@@ -1,0 +1,1 @@
+execute on passengers run function 777:blackjack/bet/finish/lose

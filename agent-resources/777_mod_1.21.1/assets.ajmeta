@@ -1,0 +1,19 @@
+{
+	"slot_machine": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/blueprint/slot_machine/slot_machine.png",
+			"assets/animated_java/textures/blueprint/slot_machine/slot_machine2.png",
+			"assets/minecraft/atlases/blocks.json",
+			"assets/animated_java/textures/blueprint/transparent.png",
+			"assets/animated_java/models/blueprint/slot_machine/main2.json",
+			"assets/animated_java/models/blueprint/slot_machine/handle2.json",
+			"assets/animated_java/models/blueprint/slot_machine/wheel2.json",
+			"assets/animated_java/models/blueprint/slot_machine/wheel3.json",
+			"assets/animated_java/models/blueprint/slot_machine/wheel4.json",
+			"assets/animated_java/models/blueprint/slot_machine/icons2/wheel2.json",
+			"assets/animated_java/models/blueprint/slot_machine/icons2/wheel3.json",
+			"assets/animated_java/models/blueprint/slot_machine/icons2/wheel4.json"
+		]
+	}
+}

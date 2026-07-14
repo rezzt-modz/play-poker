@@ -1,0 +1,2 @@
+function 777:blackjack/click/execute_as_type_in_table {type: "dealer_card_slot", cmd: "function 777:blackjack/card/reset_flip"}
+function 777:blackjack/click/execute_as_type_in_table {type: "card_slot", cmd: "function 777:blackjack/card/reset_flip"}

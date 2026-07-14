@@ -1,0 +1,1 @@
+function 777:blackjack/click/execute_as_type_in_group {type: "stand", cmd: "function 777:blackjack/stand/start"}

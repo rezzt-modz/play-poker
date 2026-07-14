@@ -1,0 +1,1 @@
+tellraw @a[tag=clicked] {"color":"red","text":"You must place a bet item before you ready!"}

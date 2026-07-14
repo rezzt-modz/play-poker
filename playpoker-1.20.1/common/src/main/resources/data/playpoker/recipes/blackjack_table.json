@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fff",
+    "wgw",
+    "www"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:green_wool"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    },
+    "g": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "playpoker:blackjack_table"
+  }
+}

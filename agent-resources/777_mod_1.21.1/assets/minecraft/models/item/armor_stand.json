@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/armor_stand"
+	},
+	
+	"overrides": [
+                {"predicate": {"custom_model_data":6901}, "model": "item/slot_machine"},
+				{"predicate": {"custom_model_data":6902}, "model": "item/blackjack_table"}
+	]
+}

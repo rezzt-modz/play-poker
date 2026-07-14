@@ -1,0 +1,2 @@
+execute if entity @s[tag=777.ready] run particle dust{color:[0.153,1.000,0.153],scale:0.25} ~ ~-0.01 ~ 0.06 0 0.06 0 2 normal
+execute if entity @s[tag=!777.ready] run particle dust{color:[1.000,0.259,0.259],scale:0.25} ~ ~-0.01 ~ 0.06 0 0.06 0 2 normal

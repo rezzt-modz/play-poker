@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"mr_777","version":"2.0.0d","name":"777","description":"All your gambling dreams can now come true in survival Minecraft!","authors":["phaic"],"contact":{"homepage":"https://modrinth.com/datapack/777"},"license":"Apache-2.0","icon":"777_pack.png","environment":"*","depends":{"fabric-resource-loader-v0":"*"}}

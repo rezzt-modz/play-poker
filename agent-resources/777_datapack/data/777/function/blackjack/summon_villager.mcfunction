@@ -1,0 +1,2 @@
+$summon villager ^ ^ ^-1 {Silent:1b,VillagerData:{profession:"minecraft:$(profession)"},Offers:{Recipes:[{maxUses:0}]},NoAI:1b,Invulnerable:1b,immovable:true,hide_description:true,Tags:["777.blackjack_entity","777.dealer_visual","new","777.blackjack.dealer_visual"],CustomName:"The Dealer"}
+summon marker ^ ^ ^-1 {Tags:["777.blackjack_entity","777.dealer","new","777.blackjack.dealer"],CustomName:'"The Dealer Marker"'}

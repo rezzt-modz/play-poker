@@ -1,0 +1,1 @@
+tellraw @a[tag=clicked] {"color":"red","text":"There is a bet on the table that has not been confirmed!"}

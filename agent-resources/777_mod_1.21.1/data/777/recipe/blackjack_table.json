@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fff",
+    "wgw",
+    "www"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:green_wool"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    },
+    "g": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:armor_stand",
+    "components": {
+      "minecraft:custom_model_data": 6902,
+      "minecraft:max_stack_size": 1,
+      "minecraft:entity_data": {
+        "id": "minecraft:armor_stand",
+        "NoGravity": true,
+        "Invulnerable": true,
+        "Tags": [
+          "blackjack_table"
+        ],
+        "Invisible": true,
+        "NoBasePlate": true,
+        "Small": true,
+        "DisabledSlots": 4144959
+      },
+      "minecraft:item_name": "{\"text\": \"Blackjack Table\", \"color\": \"gold\"}",
+      "minecraft:lore": [
+        "{\"text\": \"Can be placed\", \"color\": \"green\", \"italic\": false}",
+        "{\"text\": \"Can you beat the dealer?\", \"color\": \"gray\", \"italic\": false}"
+      ]
+    }
+  }
+}

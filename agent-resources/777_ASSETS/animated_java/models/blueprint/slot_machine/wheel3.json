@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/slot_machine/slot_machine",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5.5, 4, 4],
+			"to": [10.5, 12, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [7.375, 5.125, 8, 6.125],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7.125, 0, 8.125, 1],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [7.375, 6.125, 8, 7.125],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [7.125, 1, 8.125, 2],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [8.25, 8.125, 7.625, 7.125],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.75, 7.75, 3.125, 8.75],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

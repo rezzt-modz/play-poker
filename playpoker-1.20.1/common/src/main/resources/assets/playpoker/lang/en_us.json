@@ -1,0 +1,18 @@
+{
+  "item.playpoker.poker_chip": "Poker Chip",
+  "itemGroup.playpoker.play_poker_tab": "Play Poker",
+  "block.playpoker.blackjack_table": "Blackjack Table",
+  "item.playpoker.blackjack_table": "Blackjack Table",
+  "chat.playpoker.blackjack.bet_confirmed": "Bet confirmed!",
+  "chat.playpoker.blackjack.must_hold_item": "You must be holding an item!",
+  "chat.playpoker.blackjack.no_bet": "You must place a bet item before you ready!",
+  "chat.playpoker.blackjack.bet_full": "This bet is already at the maximum of 64 items!",
+  "chat.playpoker.blackjack.bet_not_ready": "There is a bet on the table that has not been confirmed!",
+  "chat.playpoker.blackjack.in_game_error": "You cannot do that right now!",
+  "chat.playpoker.blackjack.max_cards": "You have the maximum amount of cards!",
+  "chat.playpoker.blackjack.already_standing": "Already standing. Once you stand, you cannot take it back!",
+  "chat.playpoker.blackjack.waiting_for_others": "Waiting for other hands to stand...",
+  "chat.playpoker.blackjack.dealer_busted": "Dealer busted with %s!",
+  "chat.playpoker.blackjack.card_dealt": "Card Dealt: %s",
+  "chat.playpoker.blackjack.table_broken": "Looks like The Dealer took your bets to the grave... Better not break the table while in a game..."
+}

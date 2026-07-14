@@ -1,0 +1,17 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "777"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "animated_java",
+				"formats": {
+					"min_inclusive": 48,
+					"max_inclusive": 56
+				}
+			}
+		]
+	}
+}

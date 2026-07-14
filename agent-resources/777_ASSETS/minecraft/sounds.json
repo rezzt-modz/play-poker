@@ -1,0 +1,32 @@
+{
+    "777.slot_machine.jackpot": {
+        "sounds": [
+            "custom/jackpot"
+        ],
+        "subtitle": "Slot Machine Jackpot"
+    },
+    "777.slot_machine.handle": {
+        "sounds": [
+            "custom/handle"
+        ],
+        "subtitle": "Slot Machine Handle Pulls"
+    },
+    "777.slot_machine.spinning": {
+        "sounds": [
+            "custom/spinning"
+        ],
+        "subtitle": "Slot Machine Spins"
+    },
+    "777.slot_machine.insert": {
+        "sounds": [
+            "custom/insert"
+        ],
+        "subtitle": "Item Inserted Into Slot Machine"
+    },
+    "777.slot_machine.stop": {
+        "sounds": [
+            "custom/stop"
+        ],
+        "subtitle": "Slot Machine Stops Spinning"
+    }
+}

@@ -1,0 +1,2 @@
+execute if entity @n[tag=blackjack_temp,tag=777.in_game] run return run function 777:blackjack/in_game_error 
+function 777:blackjack/click/execute_as_type_in_group {type: "bet", cmd: "function 777:blackjack/bet/check"}

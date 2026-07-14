@@ -1,0 +1,1 @@
+tellraw @a[tag=clicked] {"color":"yellow","italic":true,"text":"Waiting for other hands to stand..."}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playpoker:block/blackjack_table"
+    },
+    "facing=south": {
+      "model": "playpoker:block/blackjack_table"
+    },
+    "facing=east": {
+      "model": "playpoker:block/blackjack_table"
+    },
+    "facing=west": {
+      "model": "playpoker:block/blackjack_table"
+    }
+  }
+}

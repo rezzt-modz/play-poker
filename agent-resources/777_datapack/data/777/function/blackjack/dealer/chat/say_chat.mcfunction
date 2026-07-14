@@ -1,0 +1,1 @@
+$tellraw @a[distance=..3] [{"color":"gray","text":"<"},{"color":"white","text":"The Dealer"},{"color":"gray","text":"> "},{"color":"gray","text":"$(chat)"}]
